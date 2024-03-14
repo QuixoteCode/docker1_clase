@@ -1,0 +1,1 @@
+me faltaria entre estas una captura de hacer "docker run --name mysql8.3 -e MYSQL_ROOT_PASSWORD=potato -d mysql:8.3.0"

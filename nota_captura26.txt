@@ -1,0 +1,1 @@
+Se lo pregunté a Javi y la razon por la que importar jakarta tiraba error era porque estaba usando tomcat 10.1 que parecia ya traer consigo el oracle, es raro, porqué después se borró

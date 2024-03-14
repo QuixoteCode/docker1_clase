@@ -1,0 +1,1 @@
+lo reiniciamos y funciono, nos tiro una serie de errores muy raros de que los nombres de métodos contenian caracteres no permitidos
